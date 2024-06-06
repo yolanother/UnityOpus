@@ -1,0 +1,14 @@
+{
+  "name": "com.meta.xr.voice.opus",
+  "displayName": "Meta - Voice SDK - Opus",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "",
+  "keywords": [],
+  "category": "Scripts",
+  "type": "tool",
+  "author": {
+    "name": "",
+    "url": ""
+  }
+}
